@@ -12,6 +12,6 @@ Under construction. Please do email m.b.middlehurst@soton.ac.uk if it is missing
 
 [https://pypi.org/project/aeon/](https://pypi.org/project/aeon/)
 
-<video onloadstart="this.volume=0.5" src="aeon-Demo.mp4" width="100%" controls></video>
+[//]: <> (<video onloadstart="this.volume=0.5" src="aeon-Demo.mp4" width="100%" controls></video>)
 
 [https://nbviewer.org/github/aeon-toolkit/aeon-tutorials/blob/main/aeon-Demo-TBD/aeon-Demo-TBD.ipynb](https://nbviewer.org/github/aeon-toolkit/aeon-tutorials/blob/main/ECML-2024/ECML2024-Demo.ipynb)
